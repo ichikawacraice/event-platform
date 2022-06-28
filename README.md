@@ -2,7 +2,7 @@
 Plataforma de Eventos e Aulas
 
 Preview: <https://event-platform-tawny.vercel.app/>
-
+![print](print.png)
 Desenvolvida com:
 
     "@apollo/client": "^3.6.9",
